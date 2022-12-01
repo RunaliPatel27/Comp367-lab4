@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tx2izLbfCfH8uHkGeI733wguuh1FKf/j5pAQwOPdv9cdYwEmgctiL/g1RxxHaYAGHaTCLyiKRrmCvTYzgwfSLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\runal\\Desktop\\Comp 367 - Assignments\\Lab 4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\runal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\runal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\runal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
