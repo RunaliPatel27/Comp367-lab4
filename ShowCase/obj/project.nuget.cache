@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GoLTaJLfC06Wt4BW0M/GKtXHjGad+PZ0QFFo1VAyUAwJ7hsnMlBIrvKMWU6P/KbL2oG+1612EUk60ws6Dv40gA==",
+  "dgSpecHash": "NCl6SX2LOAKjWpSkMn4vWloWNTx3MILws7yYsT6Pd6nj15VL4tLAcDt1zXLp43GBimj4F/nfAJnvzbXViHjPvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\runal\\Desktop\\Comp 367 - Assignments\\Lab 4\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+  "projectFilePath": "C:\\Users\\runal\\Desktop\\Comp 367 - Assignments\\Lab 4\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\runal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
     "C:\\Users\\runal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
     "C:\\Users\\runal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
     "C:\\Users\\runal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
